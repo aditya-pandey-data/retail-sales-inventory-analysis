@@ -172,6 +172,18 @@ pip install -r requirements.txt
 
 ---
 
+## 🧠 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* SQL Business Analysis
+* KPI Development
+* Tableau Dashboard Design
+* Inventory Risk Analysis
+* Business Insight Communication
+* Data Visualization & Storytelling
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
