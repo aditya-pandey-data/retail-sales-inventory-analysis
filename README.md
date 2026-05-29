@@ -94,7 +94,7 @@ Performed SQL analysis to evaluate:
 * Supplier contribution
 * Inventory movement and inventory risk
 
-### 3. Tableau Dashboarding
+### 3. Tableau Dashboard Design
 
 Built interactive Tableau dashboards to visualize:
 
