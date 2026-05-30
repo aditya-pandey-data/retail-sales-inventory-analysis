@@ -154,11 +154,9 @@ Built interactive Tableau dashboards to visualize:
 
 ---
 
-## 📄 Presentation
+## Presentation
 
-Project presentation PDF:
-
-`presentations/retail_sales_inventory_analysis_presentation.pdf`
+[View the project presentation (PDF)](presentations/retail_sales_inventory_analysis_presentation.pdf)
 
 ---
 
