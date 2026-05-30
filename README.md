@@ -110,10 +110,12 @@ Built interactive Tableau dashboards to visualize:
 ## 📊 Dashboard Preview
 
 ### Business Performance Dashboard
+This dashboard provides an overview of overall business performance, including key sales, profit, and inventory KPIs. It highlights revenue and gross profit trends, product and category performance, supplier contribution, and store-level performance to identify the primary drivers of business growth and profitability.
 
 ![Business Performance Dashboard](images/business_performance.png)
 
 ### Inventory Risk Analysis Dashboard
+This dashboard focuses on inventory health and risk management. It identifies fast-moving and slow-moving products, stockout-risk items, and overstocked inventory to support replenishment planning, improve inventory turnover, and reduce carrying costs.
 
 ![Inventory Risk Analysis Dashboard](images/inventory_risk_analysis.png)
 
@@ -131,7 +133,9 @@ Built interactive Tableau dashboards to visualize:
 | Total Returns             | $733,571.01    |
 | Total Transactions        | 131,120        |
 
+
 ---
+
 ## 💡 Key Business Insights
 
 * The business generated **$10.48M in net sales** and **$4.63M in gross profit**, resulting in a strong **44.21% gross margin**.
