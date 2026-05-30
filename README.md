@@ -132,6 +132,10 @@ This dashboard focuses on inventory health and risk management. It identifies fa
 | Total Quantity Sold       | 116,995        |
 | Total Returns             | $733,571.01    |
 | Total Transactions        | 131,120        |
+| Fast-Moving Products      | 13,997         |
+| Slow-Moving Products      | 21,658         |
+| Stockout-Risk Products    | 10,323         |
+| Overstock-Risk Products   | 21,585         |
 
 
 ---
