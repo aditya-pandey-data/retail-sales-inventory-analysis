@@ -170,6 +170,42 @@ pip install -r requirements.txt
 
 ---
 
+## ▶️ How to Run This Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/aditya-pandey-data/retail-sales-inventory-analysis.git
+cd retail-sales-inventory-analysis
+```
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open and run the Jupyter Notebook:
+
+```bash
+jupyter notebook notebooks/retail_&_inventory.ipynb
+```
+
+4. Run the SQL analysis script in MySQL:
+
+```text
+sql/retail_inventory_analysis.sql
+```
+
+5. Open the Tableau workbook:
+
+```text
+tableau/retail_analysis_dashboard.twb
+```
+
+---
+
+
 ## 🧠 Skills Demonstrated
 
 * Data Cleaning & Transformation
