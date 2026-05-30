@@ -132,25 +132,26 @@ Built interactive Tableau dashboards to visualize:
 | Total Transactions        | 131,120        |
 
 ---
-
 ## 💡 Key Business Insights
 
-* Strong overall profitability with a gross margin of 44.21%
-* Several product categories contribute significantly to total sales and gross profit
-* Supplier concentration exists among top-performing vendors
-* Slow-moving and overstock products create inventory carrying risk
-* Stockout-risk products highlight replenishment opportunities
-* Returns should be monitored to identify operational and product-quality issues
+* The business generated **$10.48M in net sales** and **$4.63M in gross profit**, resulting in a strong **44.21% gross margin**.
+* Product and category performance analysis identified key revenue and profit contributors, highlighting opportunities to focus commercial efforts on high-performing segments.
+* Returns totaled **$733.57K**, representing approximately **7% of net sales**, indicating an area for further investigation into product quality, customer behavior, and operational processes.
+* Current inventory at cost stands at **$1.10M**, emphasizing the importance of balancing inventory availability with carrying costs.
+* Inventory risk analysis revealed a mix of **stockout-risk products**, which may lead to lost sales opportunities, and **slow-moving or overstocked products**, which increase inventory holding costs and reduce working capital efficiency.
+* Supplier performance analysis highlighted the need to monitor supplier contribution and dependency to support supply chain resilience and purchasing decisions.
 
 ---
 
 ## ✅ Business Recommendations
 
-* Prioritize replenishment for high-demand stockout-risk products
-* Reduce exposure to overstock and slow-moving inventory
-* Monitor supplier dependency and supplier performance trends
-* Review low-margin products before scaling promotions
-* Continue KPI monitoring to support inventory and sales optimization
+* Prioritize replenishment planning for high-demand products identified as stockout risks to minimize lost sales opportunities.
+* Review slow-moving and overstocked inventory to reduce carrying costs and improve inventory turnover.
+* Investigate products with high return values to identify potential quality, pricing, or fulfillment issues.
+* Monitor supplier performance and concentration to reduce dependency risk and strengthen procurement strategies.
+* Evaluate low-margin products before expanding promotional activity to protect overall profitability.
+* Establish ongoing KPI monitoring for sales, profitability, returns, and inventory health to support data-driven decision-making.
+
 
 ---
 
