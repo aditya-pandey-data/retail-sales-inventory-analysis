@@ -165,7 +165,7 @@ This dashboard focuses on inventory health and risk management. It identifies fa
 
 ## Presentation
 
-[View the project presentation (PDF)](presentations/retail_sales_inventory_analysis_presentation.pdf)
+[View the project presentation (PDF)](presentation/Retail-Sales-and-Inventory-Analysis.pdf)
 
 ---
 
