@@ -1,4 +1,4 @@
-# 📊 Retail Sales & Inventory Analysis
+# 📊 Retail Sales Performance & Inventory Risk Analysis
 
 ## 📌 Project Overview
 
