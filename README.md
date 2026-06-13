@@ -6,6 +6,10 @@ End-to-end retail sales and inventory analysis using Python, SQL, and Tableau to
 
 This project focuses on transforming raw retail sales and inventory data into analytical outputs and interactive dashboards that support business decision-making across revenue performance, margin analysis, supplier contribution, and inventory risk management.
 
+![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+
 ---
 
 ## 🎯 Business Objectives
