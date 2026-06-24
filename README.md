@@ -102,14 +102,14 @@ retail-sales-inventory-analysis
 
 ```mermaid
 flowchart LR
-    A[🗂️ Raw Sales Data] --> C[🧹 Python Cleaning & Joins]
-    B[🗂️ Raw Inventory Data] --> C
-    C --> D[✅ Analysis-Ready Dataset]
-    D --> E[🗄️ SQL Analysis]
-    D --> F[📊 Tableau Dashboards]
-    E --> G[💡 Business Insights]
+    A[Raw Sales Data] --> C[Python Cleaning and Joins]
+    B[Raw Inventory Data] --> C
+    C --> D[Analysis-Ready Dataset]
+    D --> E[SQL Analysis]
+    D --> F[Tableau Dashboards]
+    E --> G[Business Insights]
     F --> G
-    G --> H[✅ Recommendations]
+    G --> H[Recommendations]
 ```
 
 ### 1️⃣ Data Preparation — *Python*
@@ -273,5 +273,4 @@ If you found this project useful or have feedback, feel free to open an issue, f
 ## 📜 License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
-
 
