@@ -99,17 +99,9 @@ retail-sales-inventory-analysis
 ---
 ## 🔄 Project Workflow
 
-```mermaid
-graph LR
-    A[Raw Sales Data] --> C[Python Cleaning and Joins]
-    B[Raw Inventory Data] --> C
-    C --> D[Analysis Ready Dataset]
-    D --> E[SQL Analysis]
-    D --> F[Tableau Dashboards]
-    E --> G[Business Insights]
-    F --> G
-    G --> H[Recommendations]
-```
+<p align="center">
+  <img src="images/project_workflow.svg" alt="Project Workflow Diagram" width="850">
+</p>
 ---
 
 ### 1️⃣ Data Preparation — *Python*
