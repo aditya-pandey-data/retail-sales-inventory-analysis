@@ -100,7 +100,7 @@ retail-sales-inventory-analysis
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="images/project_workflow.svg" alt="Project Workflow Diagram" width="850">
+  <img src="project_workflow.svg" alt="Project Workflow Diagram" width="850">
 </p>
 ---
 
