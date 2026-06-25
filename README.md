@@ -97,20 +97,20 @@ retail-sales-inventory-analysis
 > 📁 **Note on data files:** The original raw sales/inventory files and intermediate cleaned files are **not included** — they exceed GitHub's upload size limit. This repo includes the final analysis-ready dataset (`data/retail_analysis_dataset.csv`). The full cleaning, transformation, and join logic is documented step-by-step in the notebook.
 
 ---
-
 ## 🔄 Project Workflow
 
 ```mermaid
-flowchart LR
+graph LR
     A[Raw Sales Data] --> C[Python Cleaning and Joins]
     B[Raw Inventory Data] --> C
-    C --> D[Analysis-Ready Dataset]
+    C --> D[Analysis Ready Dataset]
     D --> E[SQL Analysis]
     D --> F[Tableau Dashboards]
     E --> G[Business Insights]
     F --> G
     G --> H[Recommendations]
 ```
+---
 
 ### 1️⃣ Data Preparation — *Python*
 - Cleaned and standardized retail sales and inventory datasets
