@@ -240,12 +240,17 @@ tableau/retail_analysis_dashboard.twb
 
 ---
 
+<div align="center">
 ## 🧠 Skills Demonstrated
 
-<div align="center">
-
-`Data Cleaning & Transformation` `Exploratory Data Analysis (EDA)` `SQL Business Analysis` `KPI Development` `Tableau Dashboard Design` `Inventory Risk Analysis` `Business Insight Communication` `Data Visualization & Storytelling`
-
+- 🧹 Data Cleaning & Transformation
+- 🔍 Exploratory Data Analysis (EDA)
+- 🗄️ SQL Business Analysis
+- 📊 KPI Development
+- 📈 Tableau Dashboard Design
+- 📦 Inventory Risk Analysis
+- 💬 Business Insight Communication
+- 🎨 Data Visualization & Storytelling
 </div>
 
 ---
