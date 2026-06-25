@@ -239,8 +239,6 @@ tableau/retail_analysis_dashboard.twb
 ```
 
 ---
-
-<div align="center">
 ## 🧠 Skills Demonstrated
 
 - 🧹 Data Cleaning & Transformation
@@ -251,7 +249,6 @@ tableau/retail_analysis_dashboard.twb
 - 📦 Inventory Risk Analysis
 - 💬 Business Insight Communication
 - 🎨 Data Visualization & Storytelling
-</div>
 
 ---
 
