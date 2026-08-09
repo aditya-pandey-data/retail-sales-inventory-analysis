@@ -195,7 +195,7 @@ A focused view of inventory health — fast-moving and slow-moving products, sto
 
 ## 🎤 Presentation
 
-📑 [View the full project presentation (PDF)](presentations/retail_sales_inventory_analysis_presentation.pdf)
+📑 [View the full project presentation (PDF)](presentation/Retail_Sales_Inventory_Analysis_Presentation.pdf)
 
 ---
 
