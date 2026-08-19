@@ -101,7 +101,6 @@ retail-sales-inventory-analysis
 <p align="center">
   <img src="project_workflow.svg" alt="Project Workflow Diagram" width="850">
 </p>
----
 
 ### 1️⃣ Data Preparation — *Python*
 - Cleaned and standardized retail sales and inventory datasets
